@@ -6,3 +6,6 @@
 저는 과일중에는 딸기를 제일 좋아합니다.
 저는 동물중에는 고양이를 제일 좋아합니다.
 
+
+<img src="https://img.shields.io/badge/Python-CC6699?style=plastic&logo=Python&logoColor=3776AB"/>
+출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀:티스토리]
