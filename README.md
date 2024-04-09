@@ -1,5 +1,6 @@
 <h2 align="center"> Introduction</h2>
-<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=HI+!+My+name+is+Seohyeon)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+studying+c%2B%2B+!!)](https://git.io/typing-svg)</div>
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=HI+!+My+name+is+Seohyeon)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+studying+c%2B%2B+!!)](https://git.io/typing-svg)</div>
 
 
 
